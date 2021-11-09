@@ -14,3 +14,6 @@ puts "----------"
 
 #Count to confirm the store was deleted
 puts Store.count
+
+
+            
